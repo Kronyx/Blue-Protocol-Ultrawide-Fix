@@ -1,6 +1,5 @@
 
 # Blue-Protocol-Ultrawide-Fix
-EN
 Blue Protocol is a native 16:9 game, but with patch patch you will be able to enjoy the game in 21:9 or 32:9 resolution.
 
 How to Install: Download the .rar file and extract the file to "\BandaiNamcoLauncherGames\BLUEPROTOCOL\BLUEPROTOCOL\Binaries\Win64" You can replace the original file, but I recommend you make a backup.
