@@ -13,4 +13,4 @@ If you want to donate to help the project
 Picpay: https://picpay.me/jhonnylf   
 Pix: 1cf68cb7-c2ad-4e0d-a34d-3712688dcb90
 
-**Patch created by<a><p><a href="https://github.com/Kronyx">vKronyx</a></p>
+**Patch created by <a><p><a href="https://github.com/Kronyx">vKronyx</a></p>**
