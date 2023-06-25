@@ -9,8 +9,8 @@ Use of this patch does not result in a game ban.
 
 ![Screenshot_24](https://github.com/Kronyx/Blue-Protocol-Ultrawide-Fix/assets/13527331/ea29b6be-d477-4139-8e46-1c5c95b69811)
 
-If you want to donate to help the project
-Picpay: https://picpay.me/jhonnylf
+If you want to donate to help the project  
+Picpay: https://picpay.me/jhonnylf   
 Pix: 1cf68cb7-c2ad-4e0d-a34d-3712688dcb90
 
 **Patch created by<a><p><a href="https://github.com/Kronyx">vKronyx</a></p>
